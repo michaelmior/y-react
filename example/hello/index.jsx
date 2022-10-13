@@ -6,7 +6,7 @@ import {
   useDoc,
   useMap,
   useWebRtc
-} from '@joebobmiles/y-react'
+} from '@michaelmior/y-react'
 
 const App = () => {
   const doc = useDoc()

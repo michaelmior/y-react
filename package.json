@@ -1,5 +1,5 @@
 {
-  "name": "@joebobmiles/y-react",
+  "name": "@michaelmior/y-react",
   "version": "1.1.4",
   "description": "React hooks for working with Yjs.",
   "main": "./dist/y-react.cjs",
@@ -26,14 +26,14 @@
     "shared-editing",
     "realtime"
   ],
-  "author": "Joseph R Miles <joe@jrm.dev> (https://jrm.dev)",
+  "author": "Michael Mior <michael.mior@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joebobmiles/y-react"
+    "url": "https://github.com/michaelmior/y-react"
   },
   "bugs": {
-    "url": "https://github.com/joebobmiles/y-react/issues"
+    "url": "https://github.com/michaelmior/y-react/issues"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
